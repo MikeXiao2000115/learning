@@ -7,4 +7,8 @@ adding from dev 003
 adding from main 004
 adding from main 005
 adding from github
+<<<<<<< HEAD
 adding from main 006
+=======
+adding from github2
+>>>>>>> origin/master
