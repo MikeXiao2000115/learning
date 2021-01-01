@@ -1,7 +1,7 @@
 adding from main 001
 adding from main 002
 adding from main 003
-adding from dev 001
+adding from dev 001 adding from feature 001
 adding from dev 002
 adding from dev 003
 adding from main 004
